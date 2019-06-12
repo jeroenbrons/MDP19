@@ -9,9 +9,9 @@ services:
     ports:
       - 80:8069
     environment:
-      - HOST=83.83.54.177
-      - USER=odoo
-      - PASSWORD=odoo@123
-      - DB_NAME=eteq
+      - HOST=postgreseteq.postgres.database.azure.com
+      - USER=eteqadmin@postgreseteq
+      - PASSWORD=100%Koffie
+      - DB_NAME=odoo
       - POSTGRES_DB=postgres
       - ADMIN_PASSWD="100%Koffie"
