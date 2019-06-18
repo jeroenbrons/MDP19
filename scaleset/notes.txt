@@ -1,0 +1,20 @@
+ResourceGroupName            : ETEQ
+ManagedBy                    : 
+Sku                          : Microsoft.Azure.Management.Compute.Models.Snapsh
+                               otSku
+TimeCreated                  : 14-06-2019 07:51:16
+OsType                       : Linux
+HyperVGeneration             : V1
+CreationData                 : Microsoft.Azure.Management.Compute.Models.Creati
+                               onData
+DiskSizeGB                   : 30
+EncryptionSettingsCollection : 
+ProvisioningState            : Succeeded
+Id                           : /subscriptions/c30ee7f0-4c4b-47b4-ac96-09e94d878
+                               78d/resourceGroups/ETEQ/providers/Microsoft.Comp
+                               ute/snapshots/prep1
+Name                         : prep1
+Type                         : Microsoft.Compute/snapshots
+Location                     : westeurope
+Tags                         : {}
+
